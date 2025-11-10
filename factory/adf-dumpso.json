@@ -1,0 +1,9 @@
+{
+	"name": "adf-dumpso",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06e64769-5753-4b13-a7ae-9b30dd436717",
+		"tenantId": "6e625a80-afb6-43a0-bc9d-20eb9e3bc2c1"
+	}
+}
