@@ -29,7 +29,10 @@
 					"value": "@dataset().folder",
 					"type": "Expression"
 				},
-				"fileSystem": "container"
+				"fileSystem": {
+					"value": "@dataset().container",
+					"type": "Expression"
+				}
 			},
 			"compressionCodec": "snappy"
 		},
